@@ -1,11 +1,7 @@
 package kitpvp;
 
 import static kitpvp.Kitpvp.getInstance;
-import net.minecraft.server.v1_7_R4.PlayerSelector;
-
-import org.bukkit.Bukkit;
 import org.bukkit.Effect;
-import org.bukkit.EntityEffect;
 import org.bukkit.GameMode;
 import org.bukkit.Material;
 import org.bukkit.Sound;
